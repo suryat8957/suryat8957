@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash Tiwari</h1>
+
 <h3 align="center">
-Frontend Developer | MERN Stack | AI & ML Enthusiast 🇮🇳
+AI • ML • DL • NLP Explorer | MERN Stack Developer 🇮🇳
 </h3>
 
 <p align="center">
-I am a Computer Science student from India who enjoys building clean, responsive web interfaces,  
-developing scalable full-stack applications, and exploring AI-driven solutions to real-world problems.
+Computer Science student passionate about Artificial Intelligence, Machine Learning, and
+building scalable full-stack web applications using the MERN stack.
 </p>
 
 <p align="center">
@@ -14,26 +15,27 @@ developing scalable full-stack applications, and exploring AI-driven solutions t
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Science undergraduate passionate about technology and innovation  
-- 💻 Strong foundation in **Frontend Development** with React, Tailwind CSS, and Bootstrap  
-- 🌐 Hands-on experience with **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 🤖 Actively learning and experimenting with **Machine Learning, Deep Learning & NLP**  
+## 🚀 About Me
+
+- 🎓 Computer Science undergraduate with a strong interest in **AI, ML, DL & NLP**
+- 🤖 Exploring **machine learning models, deep learning architectures, and NLP systems**
+- 📊 Interested in applying AI to **real-world, document-based and data-driven problems**
+- 💻 MERN Stack Developer with experience in **building scalable full-stack applications**
+- 🌐 Comfortable working across **frontend, backend, and AI integration**
 - 📚 Continuously improving **DSA, problem-solving, and system design skills**
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/surya-prakash-tiwari" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       height="30" width="40" />
-</a>
-</p>
+## 🌐 Connect With Me
+
+- 🔗 **LinkedIn:** https://linkedin.com/in/surya-prakash-tiwari  
+- 📧 **Email:** **suryat8957@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
+
+### 💻 Web Development (MERN)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -44,13 +46,36 @@ developing scalable full-stack applications, and exploring AI-driven solutions t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+### 🤖 AI / ML / DL / NLP
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects (Exploring AI & Full-Stack)
+
+### 🔹 AI-Powered Question Answering System (NLP)
+- Developed a document-based AI chat system using **NLP and retrieval techniques**
+- Focused on **context-aware, accurate answers from real textual data**
+- Explored tokenization, embeddings, similarity search, and model integration
+- Strengthened understanding of **applied NLP pipelines**
+
+### 🔹 MERN Stack Web Application with AI Integration
+- Built a full-stack web application using **MongoDB, Express, React, and Node.js**
+- Designed clean, responsive UI and RESTful backend APIs
+- Explored integrating **AI-based features into a full-stack system**
+- Gained experience in scalable architecture and end-to-end development
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryat8957&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryat8957&layout=compact&theme=tokyonight" height="160"/>
@@ -62,5 +87,6 @@ developing scalable full-stack applications, and exploring AI-driven solutions t
 
 ---
 
-### ✨ Personal Note
-> *I believe in consistent learning, building meaningful projects, and improving every day as an engineer.*
+## ✨ Personal Note
+
+> *I aim to build intelligent systems, write clean code, and continuously grow as an AI-focused software engineer.*
