@@ -28,7 +28,7 @@ building scalable full-stack web applications using the MERN stack.
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn:** https://linkedin.com/in/surya-prakash-tiwari  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/surya-prakash-tiwari-424486219  
 - 📧 **Email:** **suryat8957@gmail.com**
 
 ---
