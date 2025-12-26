@@ -77,13 +77,22 @@ building scalable full-stack web applications using the MERN stack.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryat8957&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryat8957&layout=compact&theme=tokyonight" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suryat8957&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryat8957&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryat8957&theme=tokyonight"/>
+  <img
+    src="https://streak-stats.demolab.com?user=suryat8957&theme=tokyonight"
+  />
 </p>
+
 
 ---
 
